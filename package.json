@@ -2,7 +2,11 @@
   "name": "no-cover-art-audio-player",
   "version": "1.0.0",
   "description": "Working on a player design for audio without any cover art.",
-  "keywords": ["react", "icons8", "audio"],
+  "keywords": [
+    "react",
+    "icons8",
+    "audio"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.0",
@@ -16,5 +20,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
